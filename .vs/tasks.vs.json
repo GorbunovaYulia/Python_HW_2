@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-EX_2",
+      "appliesTo": "EX_2.py",
+      "type": "launch"
+    }
+  ]
+}
